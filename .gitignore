@@ -1,0 +1,17 @@
+# 認証情報・環境変数
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
+
+# 依存パッケージ
+node_modules/
